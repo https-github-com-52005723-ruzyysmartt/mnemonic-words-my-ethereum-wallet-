@@ -1,0 +1,25 @@
+root = true
+address= <0x8018280076d7fA2cAa1147e441352E8a89e1DDbe>
+[*]
+mnemonic -word= glad now never sweet puzzle ask 
+leave popular need endless because pond company 
+spike pill inmate corn another salad film setup 
+path biology picture
+Location =my ethereum wallet
+https://github.com/https-github-com-ruzyysmartt/FindETH.git
+indent_style = tab
+
+end_of_line = lf
+
+charset = utf-8
+
+trim_trailing_whitespace = true
+
+insert_final_newline = true
+
+[*.yml]
+
+indent_style = space
+
+indent_size = 2
+
